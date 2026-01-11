@@ -4,4 +4,4 @@ This is one of the required projects to earn your certification.
 
 Using mongodb & mongoose to use CRUD operations in creating books with comments in it.
 
-### Verify this certification at: https://www.freecodecamp.org/certification/Johncent-Developer/quality-assurance-v7
+### Verify this certification at: https://www.freecodecamp.org/certification/johncent-developer/quality-assurance-v7
